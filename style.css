@@ -1,0 +1,42 @@
+body{
+    font-weight: 700;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.orange-color{
+    color: chocolate;
+}
+.button-color{
+    background-image: linear-gradient(gold, red);
+    color: cornsilk;
+    text-decoration: none;
+    border: 1px solid coral;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+.flexible-div{
+   display: flex;
+   margin-bottom: 150px;
+   
+}
+.width-div{
+    margin-left: 5%;
+    width: 50%;
+    
+
+}
+.width-div img{
+    width: 80%;
+}

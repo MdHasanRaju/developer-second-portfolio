@@ -41,7 +41,8 @@ h3{
    
 }
 .width-div{
-    margin-left: 5%;
+    margin-left: 2%;
+    
     width: 50%;
     
 
@@ -70,6 +71,7 @@ h3{
     border-left: 8px solid;
     border-image-slice: 1;
     box-shadow: 10px 2px 60px #596275;
+    margin-right: 2%;
 }
 footer{
     text-align: center;

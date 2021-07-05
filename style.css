@@ -1,18 +1,27 @@
 body{
-    font-weight: 700;
     margin: 0px;
+    font-family: 'Pacifico', cursive;
 }
 h1{
     font-size: 50px;
+    font-weight: 700;
 }
 h2{
     font-size: 40px;
+    font-weight: 700;
 }
 h3{
     font-size: 30px;
+    font-weight: 700;
 }
-p{
-    font-size: 20px;
+.top-banner{
+  background-image: url(image2/top-banner.png);
+  background-repeat: no-repeat;
+}
+.desirable-banner{
+    background-image: url(image2/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .orange-color{
     color: chocolate;
@@ -39,4 +48,36 @@ p{
 }
 .width-div img{
     width: 80%;
+}
+.skill-design{
+    
+    color: darkorange;
+    text-align: center;
+}
+#skill-background{
+    background-image: url(image2/curve\ line.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.border-left{
+    border-image: linear-gradient(#e15f41, green);
+    border-left: 8px solid;
+    border-image-slice: 1;
+    box-shadow: 10px 20px 60px gray;
+}
+.border-right{
+    border-image: linear-gradient(blue, #3dc1d3);
+    border-left: 8px solid;
+    border-image-slice: 1;
+    box-shadow: 10px 2px 60px #596275;
+}
+footer{
+    text-align: center;
+   /*  background-color: lightseagreen; */
+    /* padding: 10px; */
+}
+.copyright-large{
+    font-size:40px;
+    display: inline-block;
+    
 }

@@ -88,3 +88,21 @@ footer p{
     font-size: 24px;
     font-family: sans-serif;
 }
+.header-part{
+    background: aliceblue;
+}
+.header-part ul{
+        margin: 0px;
+        text-align: right;
+}
+.header-part ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 0px;
+    font-size: 16px;
+    padding: 0px 8px;
+}
+.header-part ul li:hover a{ 
+   background-color: #0fbcf9;
+   transition: .5s;
+}

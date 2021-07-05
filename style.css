@@ -65,6 +65,7 @@ h3{
     border-left: 8px solid;
     border-image-slice: 1;
     box-shadow: 10px 20px 60px gray;
+    padding:0px 20px;
 }
 .border-right{
     border-image: linear-gradient(blue, #3dc1d3);
@@ -72,6 +73,7 @@ h3{
     border-image-slice: 1;
     box-shadow: 10px 2px 60px #596275;
     margin-right: 2%;
+    padding:0px 20px;
 }
 footer{
     text-align: center;

@@ -3,15 +3,15 @@ body{
     font-family: 'Pacifico', cursive;
 }
 h1{
-    font-size: 50px;
-    font-weight: 700;
-}
-h2{
     font-size: 40px;
     font-weight: 700;
 }
-h3{
+h2{
     font-size: 30px;
+    font-weight: 700;
+}
+h3{
+    font-size: 20px;
     font-weight: 700;
 }
 .top-banner{
@@ -73,11 +73,10 @@ h3{
 }
 footer{
     text-align: center;
-   /*  background-color: lightseagreen; */
-    /* padding: 10px; */
+    background-color: lightseagreen;
+    padding: -12px; 
 }
 .copyright-large{
     font-size:40px;
-    display: inline-block;
     
 }
